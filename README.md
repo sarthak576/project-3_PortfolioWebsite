@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/32974c40-db4e-4cab-b999-47ce1bef6e5f)![image](https://github.com/user-attachments/assets/5732302a-8fcb-4ecf-927a-71d5cc2dc8c8)Gautam Raj - Portfolio Website
+Gautam Raj - Portfolio Website
 Project Overview
 This project is a personal portfolio website designed to showcase the skills, experience, and projects 
 of Gautam Raj, a Full-Stack Developer. The website is built using HTML, CSS, and JavaScript, providing 
